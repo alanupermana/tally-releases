@@ -1,0 +1,26 @@
+Tally End User License
+
+Copyright (c) 2026 Alanu Dinasti Permana. All rights reserved.
+
+1. Grant. You may download, install and use the Tally application ("the Software") free of charge, for personal or work use, on computers you own or control.
+
+2. Restrictions. Without prior written permission from the copyright holder you may not:
+   a. copy, redistribute, sell, rent, lend or sublicense the Software or any part of it, other than downloading it from the official release page;
+   b. modify, translate, adapt or create derivative works of the Software, its source code, design, text or icons;
+   c. decompile, disassemble or reverse engineer the Software, except where the law expressly permits it;
+   d. remove or change any copyright notice, name or branding;
+   e. use the Tally name or icon for another product.
+
+3. Contributions and forks. Changes, forks and integrations are welcome only with permission. Write to alanupermana@gmail.com first, as described in CONTRIBUTING.md.
+
+4. Ownership. The Software is licensed, not sold. All rights not expressly granted here are reserved by the copyright holder.
+
+5. Your data. The Software stores your settings on your computer and your tokens in your operating system's keychain. It sends data only to the services you connect (such as Taiga, your AI provider, GitLab, GitHub or Figma) and only when you use those features. You are responsible for following the rules of those services and of your organisation.
+
+6. No warranty. The Software is provided "as is", without warranty of any kind, express or implied, including fitness for a particular purpose. You are responsible for checking every worklog before you send it.
+
+7. Limitation of liability. To the extent permitted by law, the copyright holder is not liable for any damage or loss arising from the use of, or inability to use, the Software, including lost or wrong worklog entries.
+
+8. Termination. This license ends automatically if you break its terms. You must then stop using and delete the Software.
+
+9. Changes. New versions may come with updated terms. Using a new version means you accept its terms.
